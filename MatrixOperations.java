@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class second {
+public class MatrixOperations {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
